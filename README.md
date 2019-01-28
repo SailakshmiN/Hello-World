@@ -1,3 +1,2 @@
 # Hello-World
-Sample
-Air Canada HCL
+System.out.println("Hello World");
